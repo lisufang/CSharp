@@ -4,40 +4,26 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DocumentFormat.OpenXml.Packaging;
-using DocumentFormat.OpenXml.Wordprocessing; 
+using DocumentFormat.OpenXml.Wordprocessing;
+using System.IO;
 
 namespace WordOpenXmlElement
 {
     class Program
     {
-       
-             static void Main(string[] args)
+
+        static void Main(string[] args)
         {
-            string fileName = @"C:\Users\Public\Documents\AccessElementsSameLevel.docx";
-            using (WordprocessingDocument wordprocessingDocument = 
-                WordprocessingDocument.Open(fileName, false))
+            string wordPathStr = @"\documents\科研细则.docx";
+            using (WordprocessingDocument doc = WordprocessingDocument.Open(wordPathStr, true))
             {
-                // Create a Body object.
-                DocumentFormat.OpenXml.Wordprocessing.Body body =
-                    wordprocessingDocument.MainDocumentPart.Document.Body;
-
-                // Create a Paragraph object.
-                DocumentFormat.OpenXml.Wordprocessing.Paragraph firstParagraph =
-                    body.Elements<Paragraph>().FirstOrDefault();
-
-                // Get the first child of an OpenXmlElement.
-                 DocumentFormat.OpenXml.OpenXmlElement firstChild = firstParagraph.FirstChild;
-                IEnumerable<Run> elementsAfter =
-                    firstChild.ElementsAfter().Where(c => c is Run).Cast<Run>();
-
-                // Get the Run elements after the specified element.
-                Console.WriteLine("Run elements after the first child are: ");
-                foreach (DocumentFormat.OpenXml.Wordprocessing.Run run in elementsAfter)
+                Body body = doc.MainDocumentPart.Document.Body;
+                foreach (var paragraph in body.Elements<Paragraph>())
                 {
-                    Console.WriteLine(run.InnerText);
+                    Console.WriteLine(paragraph.InnerText);
                 }
-                Console.ReadKey();
             }
-        }  
+            Console.ReadLine();
+        }
     }
 }

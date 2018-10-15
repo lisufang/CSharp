@@ -1,1 +1,7 @@
 E:\Study\WordOpenXmlElement\WordOpenXmlElement\bin\Debug\WordOpenXmlElement.exe.config
+E:\Study\studywork\test2\WordOpenXmlElement\bin\Debug\WordOpenXmlElement.exe.config
+E:\Study\studywork\test2\WordOpenXmlElement\obj\Debug\WordOpenXmlElement.csprojResolveAssemblyReference.cache
+E:\Study\studywork\test2\WordOpenXmlElement\bin\Debug\WordOpenXmlElement.exe
+E:\Study\studywork\test2\WordOpenXmlElement\bin\Debug\WordOpenXmlElement.pdb
+E:\Study\studywork\test2\WordOpenXmlElement\obj\Debug\WordOpenXmlElement.exe
+E:\Study\studywork\test2\WordOpenXmlElement\obj\Debug\WordOpenXmlElement.pdb
