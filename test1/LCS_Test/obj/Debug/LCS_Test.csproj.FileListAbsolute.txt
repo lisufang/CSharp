@@ -16,3 +16,9 @@ E:\Study\LCS_Test\test1\LCS_Test\obj\Debug\LCS_Test.pdb
 E:\Study\LCS_Test\test1\LCS_Test\bin\Debug\LCS_Test.exe
 E:\Study\LCS_Test\test1\LCS_Test\bin\Debug\LCS_Test.pdb
 E:\Study\LCS_Test\test1\LCS_Test\obj\Debug\LCS_Test.csprojResolveAssemblyReference.cache
+E:\Study\studywork\test1\LCS_Test\bin\Debug\LCS_Test.exe.config
+E:\Study\studywork\test1\LCS_Test\obj\Debug\LCS_Test.exe
+E:\Study\studywork\test1\LCS_Test\obj\Debug\LCS_Test.pdb
+E:\Study\studywork\test1\LCS_Test\bin\Debug\LCS_Test.exe
+E:\Study\studywork\test1\LCS_Test\bin\Debug\LCS_Test.pdb
+E:\Study\studywork\test1\LCS_Test\obj\Debug\LCS_Test.csprojResolveAssemblyReference.cache
