@@ -1,0 +1,7 @@
+E:\Study\studywork\test3\AutomaticProgram\AutomaticProgram\bin\Debug\AutomaticProgram.exe.config
+E:\Study\studywork\test3\AutomaticProgram\bin\Debug\AutomaticProgram.exe.config
+E:\Study\studywork\test3\AutomaticProgram\bin\Debug\AutomaticProgram.exe
+E:\Study\studywork\test3\AutomaticProgram\bin\Debug\AutomaticProgram.pdb
+E:\Study\studywork\test3\AutomaticProgram\obj\Debug\AutomaticProgram.csprojResolveAssemblyReference.cache
+E:\Study\studywork\test3\AutomaticProgram\obj\Debug\AutomaticProgram.exe
+E:\Study\studywork\test3\AutomaticProgram\obj\Debug\AutomaticProgram.pdb
