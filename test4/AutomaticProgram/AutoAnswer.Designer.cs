@@ -1,6 +1,6 @@
 ﻿namespace AutomaticProgram
 {
-    partial class TestWendows
+    partial class AutoAnswer
     {
         /// <summary>
         /// 必需的设计器变量。

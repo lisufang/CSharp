@@ -59,12 +59,11 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
-    <Compile Include="Settings.cs" />
-    <Compile Include="TestWendows.cs">
+    <Compile Include="AutoAnswer.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TestWendows.Designer.cs">
-      <DependentUpon>TestWendows.cs</DependentUpon>
+    <Compile Include="AutoAnswer.Designer.cs">
+      <DependentUpon>AutoAnswer.cs</DependentUpon>
     </Compile>
     <Compile Include="LCS.cs" />
     <Compile Include="Program.cs" />
@@ -79,8 +78,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="TestWendows.resx">
-      <DependentUpon>TestWendows.cs</DependentUpon>
+    <EmbeddedResource Include="AutoAnswer.resx">
+      <DependentUpon>AutoAnswer.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

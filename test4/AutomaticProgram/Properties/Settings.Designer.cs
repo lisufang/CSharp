@@ -22,17 +22,15 @@ namespace AutomaticProgram.Properties {
                 return defaultInstance;
             }
         }
+        
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("c:/")]
-        public string DocPath
-        {
-            get
-            {
+        public string DocPath {
+            get {
                 return ((string)(this["DocPath"]));
             }
-            set
-            {
+            set {
                 this["DocPath"] = value;
             }
         }

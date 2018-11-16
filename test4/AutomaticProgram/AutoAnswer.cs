@@ -11,10 +11,10 @@ using System.Windows.Forms;
 
 namespace AutomaticProgram
 {
-    public partial class TestWendows : Form
+    public partial class AutoAnswer : Form
     {
 
-        public TestWendows()
+        public AutoAnswer()
         {
             InitializeComponent();
         }

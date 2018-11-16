@@ -5,12 +5,6 @@ E:\Study\studywork\test3\AutomaticProgram\bin\Debug\AutomaticProgram.pdb
 E:\Study\studywork\test3\AutomaticProgram\obj\Debug\AutomaticProgram.csprojResolveAssemblyReference.cache
 E:\Study\studywork\test3\AutomaticProgram\obj\Debug\AutomaticProgram.exe
 E:\Study\studywork\test3\AutomaticProgram\obj\Debug\AutomaticProgram.pdb
-C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csprojAssemblyReference.cache
-C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.TestWendows.resources
-C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csproj.GenerateResource.cache
-C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csproj.CoreCompileInputs.cache
-C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.exe
-C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.pdb
 C:\school\studywork\test4\AutomaticProgram\bin\Debug\AutomaticProgram.exe.config
 C:\school\studywork\test4\AutomaticProgram\bin\Debug\AutomaticProgram.exe
 C:\school\studywork\test4\AutomaticProgram\bin\Debug\AutomaticProgram.pdb
@@ -18,4 +12,10 @@ C:\school\studywork\test4\AutomaticProgram\bin\Debug\DocumentFormat.OpenXml.dll
 C:\school\studywork\test4\AutomaticProgram\bin\Debug\Newtonsoft.Json.dll
 C:\school\studywork\test4\AutomaticProgram\bin\Debug\DocumentFormat.OpenXml.xml
 C:\school\studywork\test4\AutomaticProgram\bin\Debug\Newtonsoft.Json.xml
+C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csprojAssemblyReference.cache
+C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.AutoAnswer.resources
+C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csproj.GenerateResource.cache
+C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csproj.CoreCompileInputs.cache
 C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.csproj.CopyComplete
+C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.exe
+C:\school\studywork\test4\AutomaticProgram\obj\Debug\AutomaticProgram.pdb
